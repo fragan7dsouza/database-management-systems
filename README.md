@@ -1,4 +1,4 @@
-# 🗄️ Database Management Systems (DBMS) Mini Projects
+# 🗄️ Database Management Systems (DBMS)
 
 This repository contains DBMS lab questions implemented as part of coursework. Each folder showcases a practical database application, built using SQL.
 
